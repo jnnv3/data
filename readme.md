@@ -56,7 +56,7 @@ Camera: 일부 유저는 장시간 탐색·비교 후 Cart로 전환
 → Smartphone은 즉시 전환형 상품, Camera는 숙고형 상품이라는 차이를 확인했습니다.
 
 ## 결론
-#### Action 1. 즉시 전환형 상품 (Smartphone)
+#### 1. 즉시 전환형 상품 (Smartphone)
 
 
 View 이후 대부분 10분 이내 Cart로 전환
@@ -73,7 +73,7 @@ View 이후 대부분 10분 이내 Cart로 전환
 
 
 
-#### Action 2. 숙고형 상품 (Camera)
+#### 2. 숙고형 상품 (Camera)
 
 
 View 이후 장시간 비교·탐색 후 Cart로 전환
